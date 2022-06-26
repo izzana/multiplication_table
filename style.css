@@ -1,0 +1,36 @@
+body {
+    background: rgb(102, 76, 181);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: rgb(98, 95, 95);
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.33); /*estou colocando um sombreamento*/
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+
+div {
+    text-align: left;
+    padding: 10px;
+}
+
+#gerar {
+    margin: 5px;
+}
+
